@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
-//| Fonction pour vérifier si une bougie est haussière ou baissière  |
-//| Index = 0 pour la dernière bougie (en cours), 1 pour la précédente, etc.|
+//| Fonction pour vérifier si une bougie est haussière ou baissière   |
+//| Index = 0 pour la dernière bougie (en cours), 1 pour la précédente|
 //+------------------------------------------------------------------+
 bool IsCandleBullish(int index)
   {
